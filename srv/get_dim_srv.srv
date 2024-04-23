@@ -1,0 +1,6 @@
+sensor_msgs/PointCloud2 frame
+std_msgs/Int64MultiArray points
+--- 
+float64 width
+float64 height 
+float64 depth
